@@ -1,5 +1,5 @@
 # Nanaadjei
-Luel Hagos Beyene10:20 AM
+
 ## Hi there I'm Nana Adjei Owusu.
 <img width="25%" align="right" alt="Github"
 src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968
